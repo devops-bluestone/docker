@@ -36,4 +36,4 @@ RUN ln -s /usr/java/latest/bin/javadoc /usr/bin/javadoc
 RUN ln -s /usr/java/latest/bin/javaws /usr/bin/javaws
 #echo "Checking JAVA version"
 RUN java -version
-
+##### I am going to make changes to this file and to see if GIT will actually work###
